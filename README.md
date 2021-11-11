@@ -1,8 +1,7 @@
 ### Olá, Eu sou o Jeferson 👋
 
-- 🤩 Sonho em trabalhar como Front-End.
-- 📚 Atualmente estudo Javascript e React Native
- 
+- 📚👨‍💻 Desenvolvedor FullStack Java em formação no Bootcamp da Generation
+
  <div>
   <a href="https://github.com/Jeecambui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeecambui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
