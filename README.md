@@ -9,13 +9,18 @@
 </div>
  <div style="display: inline_block"><br>
   <h1></h1>
+  
+ <div>
+  <h1><u>Back-End</u></div>
+  
   <img align="center" alt="JefJef-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="JefJef-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="JefJef-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 
-
+  </div>
 
  </div>
+   <h1><u>Front-End</u></div>
  <div style="display: inline_block"><br>
   <img align="center" alt="JefJefJava-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JefJefJava-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
