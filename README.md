@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Jeferson 👋
 
-- 📚👨‍💻 Desenvolvedor FullStack Java em formação no Bootcamp da Generation
+- 📚👨‍💻 Desenvolvedor FullStack Java Júnior formado no Bootcamp da Generation Brasil
 
  <div>
   <a href="https://github.com/Jeecambui">
